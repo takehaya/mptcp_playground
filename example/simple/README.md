@@ -132,8 +132,8 @@ flowchart LR
 
   %% 接続
   A1 --- B1
-  A1 --- B2
   A2 --- B2
+  A2 --- B1
 
   %% スタイル
   style A fill:#fff9d6,stroke:#555,stroke-width:1px

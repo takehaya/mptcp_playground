@@ -1,0 +1,3 @@
+# loadbalancer
+
+これはLB配下にNodeが置かれるケースに対応させた例です
